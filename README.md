@@ -45,7 +45,7 @@ echo "your_private_key_here" > pk.txt
 ```
 
 4. Creat a proxies.txt file and add your proxies like that
-'''bash
+```bash
 http://username:password@ip:port
 http://ip:port
 ```
