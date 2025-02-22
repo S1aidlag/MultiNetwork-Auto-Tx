@@ -46,13 +46,11 @@ echo "your_private_key_here" > pk.txt
 
 4. Creat a proxies.txt file and add your proxies like that
 '''bash
-
 http://username:password@ip:port
 http://ip:port
 ```
 
 ## Usage
-
 1. Start the bot:
 ```bash
 node index.js
